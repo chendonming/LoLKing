@@ -1,24 +1,6 @@
-# nodejsmusic
+# LOL 桌面应用程序
 
-## Project setup
-```
-yarn install
-```
+## 特性
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 攻略查看 数据来源于op.gg
+- 在线bp, 根据局势pick更优势的英雄
